@@ -5,10 +5,9 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/SpringCloud_Sell/config-repo
-          username:
-          password:
-          basedir:
+          uri: https://github.com/GaozyDev/ConfigCloud.git
+          username: 670453367@qq.com
+          password: MhrkDByiPY5snfa
 eureka:
   client:
     service-url:
