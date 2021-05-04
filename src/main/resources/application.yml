@@ -8,6 +8,8 @@ spring:
           uri: https://github.com/GaozyDev/ConfigCloud.git
           username: 670453367@qq.com
           password: MhrkDByiPY5snfa
+server:
+  port: 8771
 eureka:
   client:
     service-url:
