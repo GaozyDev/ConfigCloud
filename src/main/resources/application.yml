@@ -17,4 +17,8 @@ eureka:
 management:
   endpoints:
     web:
-      expose: "*"
+      exposure:
+        include:  "*"
+  endpoint:
+    bus-refresh:
+      enabled: true
