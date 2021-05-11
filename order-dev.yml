@@ -17,5 +17,5 @@ eureka:
 env:
   dev
 girl:
-  name: ll
+  name: lili
   age: 18
