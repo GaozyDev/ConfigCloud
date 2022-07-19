@@ -12,6 +12,10 @@ zuul:
   #排除某些路由
   ignored-patterns:
     - /**/product/listForOrder 
+
+server:
+  port: 8083
+  
 management:
   security:
     enabled: false    
